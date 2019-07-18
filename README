@@ -1,0 +1,4 @@
+#Docker file
+##php7.2 FastCGI
+##PDO
+##Mysql
